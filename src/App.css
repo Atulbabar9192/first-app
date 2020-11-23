@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+background-color: cyan;
 }
 
 .App-logo {
@@ -39,6 +40,8 @@
 
 .buttonDiv
 {text-align:center;
+margin: 10px;
+  
 
 }
 .button-update
