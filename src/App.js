@@ -1,4 +1,3 @@
-
 import { useState } from 'react';  
 import './App.css';
 import Vehicle from './Vehicle/vehicle';
@@ -59,5 +58,4 @@ FuelType={vehicleState.vehicles[3].FuelType} />
       
       );
   }
- 
 export default App;
