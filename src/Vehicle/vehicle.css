@@ -1,14 +1,14 @@
 .vehicle
 {
     display: inline-block;
-    margin: 5px;
+    margin: 20px;
     text-align: left;
-    padding: 5px 8px 5px 15px;
+    padding: 12px 12px 5px 15px;
     color: chartreuse;
     border: 2px solid rgb(58, 64, 143);
     box-shadow: 0 5px 10px rgb(180, 118, 160);
     width: 300px;
-    height: 160px;
+    height: 250px;
     background-color:rgb(105, 112, 62);
     max-width: 23%;
 }
